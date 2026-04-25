@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Temporary Office files
+.~*
+
+# Claude Code internal
+.claude/
+
+# Matplotlib cache
+output/.matplotlib/
